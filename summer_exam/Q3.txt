@@ -1,0 +1,5 @@
+Cappuccino,52
+Latte,36
+Espresso,12
+Americano,52
+Macchiatto,26
